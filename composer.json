@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-soap",
+    "name": "donkeyworks/zendframework1-soap",
     "description": "Zend Framework 1 Soap component",
     "type": "library",
     "keywords": [
@@ -11,11 +11,11 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "diablomedia/zendframework1-config": "^1.0.0",
-        "diablomedia/zendframework1-exception": "^1.0.0",
-        "diablomedia/zendframework1-server": "^1.0.0",
-        "diablomedia/zendframework1-uri": "^1.0.0",
-        "diablomedia/zendframework1-xml": "^1.0.0",
+        "donkeyworks/zendframework1-config": "^1.0.0",
+        "donkeyworks/zendframework1-exception": "^1.0.0",
+        "donkeyworks/zendframework1-server": "^1.0.0",
+        "donkeyworks/zendframework1-uri": "^1.0.0",
+        "donkeyworks/zendframework1-xml": "^1.0.0",
         "ext-SimpleXML": "*",
         "ext-dom": "*",
         "ext-soap": "*",
